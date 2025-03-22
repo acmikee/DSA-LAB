@@ -42,7 +42,7 @@ int main() {
     
     int a = 5;       
     double b {9.68};
-    string c = "Nahom"; 
+    string c = "Michael"; 
     int d;
     d = 71; 
     auto salesHelper = totalSales;
