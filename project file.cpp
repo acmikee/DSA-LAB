@@ -4,14 +4,10 @@ using namespace std;
 int main() {
 
     cout << "*****************************************************\n";
-    cout << "*   Welcome to the Product Sales and Inventory      *\n";
+    cout << "*   Welcome to the Sales and Inventory Overview     *\n";
     cout << "*   Analysis Program!                               *\n";
     cout << "*****************************************************\n\n";
 
-    cout << "This program helps store owners track inventory and sales efficiently. \n";
-    cout << "Reminder: C++ is a compiled language, meaning it must be compiled before execution. \n\n";
-
-    
     string productName;
     int productCategory;
     int initialInventoryQuantity;
